@@ -40,7 +40,7 @@ I chose to use the **Pygame** library for several reasons:
 ## Installation and Usage
 
 1. **Installation:**  
-   Ensure you have Python (version 3.x) installed on your machine. Pygame can be installed via pip:
+   Ensure you have Python (version 3.7 min) installed on your machine. Pygame can be installed via pip:
    ```bash
    pip install pygame
    
